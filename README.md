@@ -5,9 +5,11 @@
 -  pandas
 -  matplotlib
 ---
-### Basic Machine learning
-- 1. Univariable linear regression
-- 2. Multivariable regression
-- 3. Regression
-- 4. Decision Tree
-- 5. Clustering
+### Supervised Learning
+- Linear Regression analysis
+- Gradient descent algorithm
+- Multivariable regression
+- Logistic regression
+---
+### Unsupervised Learning
+- K_Mean
