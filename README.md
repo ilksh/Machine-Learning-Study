@@ -1,9 +1,10 @@
 # Machine-Learning-Study (progressing)
 ---
 ### Basic
--  numpy
--  pandas
--  matplotlib
+- numpy
+- pandas
+- matplotlib
+- basic of Timeseries
 ---
 ### Supervised Learning
 - Linear Regression analysis
